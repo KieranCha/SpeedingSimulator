@@ -1,0 +1,4 @@
+Run "carDBcreator.py" first to create a database of cars to be tested on,
+then you are free to run "RoadSim.py"
+
+Tip: press enter to progress the days :)
